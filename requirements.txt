@@ -1,0 +1,4 @@
+sseclient==0.0.27
+kafka-python==2.0.2
+bson==0.5.10
+streamlit-autorefresh==0.0.1
